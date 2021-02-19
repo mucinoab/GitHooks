@@ -28,4 +28,4 @@ if [[ ! -z $FOUND ]]; then
 fi
 
 exit 0
-#form: https://stackoverflow.com/questions/24968112/searching-files-with-pre-commit
+#from: https://stackoverflow.com/questions/24968112/searching-files-with-pre-commit
